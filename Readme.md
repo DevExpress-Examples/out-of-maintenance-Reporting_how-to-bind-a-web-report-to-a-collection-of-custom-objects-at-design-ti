@@ -1,0 +1,8 @@
+# How to bind a web report to a collection of custom objects at design time
+
+
+<p>This example illustrates how to bind a report to lists for web projects at design time. To do this you need to extract your reports together with the corresponding classes representing your business objects into a separate assembly. Then, you can easily perform all necessary design-time binding using the BindingSource component (by specifying the required object type as its DataSource).</p><p>This approach differs from how this is done under the Windows Forms platforms in that you cannot assign your object to the <strong>BindingSource.DataSource</strong> property at design time. Instead, you should perform the binding right within the <strong>InitializeComponent</strong> method.</p>
+
+<br/>
+
+
