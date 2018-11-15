@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Data.cs](./CS/Reports/Data.cs) (VB: [Data.vb](./VB/Reports/Data.vb))
+* [XtraReport1.cs](./CS/Reports/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/Reports/XtraReport1.vb))
+* [Default.aspx](./CS/ShowReport/Default.aspx) (VB: [Default.aspx](./VB/ShowReport/Default.aspx))
+* [Default.aspx.cs](./CS/ShowReport/Default.aspx.cs) (VB: [Default.aspx](./VB/ShowReport/Default.aspx))
+<!-- default file list end -->
 # How to bind a web report to a collection of custom objects at design time
 
 
